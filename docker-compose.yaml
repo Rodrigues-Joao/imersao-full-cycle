@@ -1,0 +1,4 @@
+include:
+  - ./tracker-simulator/docker-compose.yaml
+  - ./backend/nestjs-api/docker-compose.yaml
+  - ./frontend/next-frontend/docker-compose.yaml

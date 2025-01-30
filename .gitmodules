@@ -1,0 +1,9 @@
+[submodule "backend/nestjs-api"]
+	path = backend/nestjs-api
+	url = https://github.com/Rodrigues-Joao/imersao-full-cycle-backend.git
+[submodule "frontend/next-frontend"]
+	path = frontend/next-frontend
+	url = https://github.com/Rodrigues-Joao/imersao-full-cycle-frontend.git
+[submodule "tracker-simulator"]
+	path = tracker-simulator
+	url = https://github.com/Rodrigues-Joao/imersao-full-cycle-simulator.git
